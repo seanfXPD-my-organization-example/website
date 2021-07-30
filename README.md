@@ -2,6 +2,4 @@
 
 ## Did some changes here.
 
-Now editing on update-readme branch.
-
-Updated locally
+Updates made on Main (Master) on GitHub before rebase
